@@ -1,12 +1,12 @@
 {
-  "lastEdit": "2024-11-11T12:59:29.7594812Z",
+  "lastEdit": "2025-01-17T01:37:00.000Z",
   "categories": [
     {
       "categoryName": "Raids",
-      "markerSets":[
+      "markerSets": [
         {
           "enabled": true,
-          "Author":"Soeed.4160",
+          "author": "Soeed.4160",
           "name": "Vale Guardian",
           "description": "Stack markers",
           "mapId": 1062,
@@ -47,7 +47,7 @@
           ]
         },
         {
-          "author":"Soeed.4160",
+          "author": "Soeed.4160",
           "name": "Sabetha",
           "description": "Cannon platforms",
           "mapId": 1062,
@@ -88,7 +88,7 @@
           ]
         },
         {
-          "Author":"Soeed.4160",
+          "author": "Soeed.4160",
           "enabled": true,
           "name": "Qadim The Peerless (Omega Fires)",
           "description": "Larger fire coverage for anomaly management",
@@ -163,72 +163,72 @@
           "name": "Qadim the Peerless (better fires)",
           "description": "Good anomaly management, optimized for scourge kiters",
           "mapId": 1323,
-          "trigger":
-          {
+          "trigger": {
             "x": 41.2270851,
             "y": 192.031311,
             "z": 16.8120251
           },
           "markers": [
-          {
-            "i": 1,
-            "d": "SE 80",
-            "x": 61.53281,
-            "y": 223.323227,
-            "z": 16.8120251
-          },
-          {
-            "i": 2,
-            "d": "SE 60",
-            "x": 80.33886,
-            "y": 255.5442,
-            "z": 16.8120441
-          },
-          {
-            "i": 3,
-            "d": "SW1 80",
-            "x": 26.6011333,
-            "y": 212.6173,
-            "z": 16.81205
-          },
-          {
-            "i": 4,
-            "d": "SW1 60",
-            "x": 35.70496,
-            "y": 225.7482,
-            "z": 16.81205
-          },
-          {
-            "i": 5,
-            "d": "SW2 80",
-            "x": -1.7511996,
-            "y": 261.935516,
-            "z": 16.8120556
-          },
-          {
-            "i": 6,
-            "d": "SW2 60",
-            "x": 13.0166683,
-            "y": 265.74057,
-            "z": 16.8120556
-          },
-          {
-            "i": 7,
-            "d": "N 80",
-            "x": 68.43271,
-            "y": 290.062,
-            "z": 16.8120556
-          },
-          {
-            "i": 8,
-            "d": "N 60",
-            "x": 63.40479,
-            "y": 275.899933,
-            "z": 16.8120556
-          }]
+            {
+              "i": 1,
+              "d": "SE 80",
+              "x": 61.53281,
+              "y": 223.323227,
+              "z": 16.8120251
+            },
+            {
+              "i": 2,
+              "d": "SE 60",
+              "x": 80.33886,
+              "y": 255.5442,
+              "z": 16.8120441
+            },
+            {
+              "i": 3,
+              "d": "SW1 80",
+              "x": 26.6011333,
+              "y": 212.6173,
+              "z": 16.81205
+            },
+            {
+              "i": 4,
+              "d": "SW1 60",
+              "x": 35.70496,
+              "y": 225.7482,
+              "z": 16.81205
+            },
+            {
+              "i": 5,
+              "d": "SW2 80",
+              "x": -1.7511996,
+              "y": 261.935516,
+              "z": 16.8120556
+            },
+            {
+              "i": 6,
+              "d": "SW2 60",
+              "x": 13.0166683,
+              "y": 265.74057,
+              "z": 16.8120556
+            },
+            {
+              "i": 7,
+              "d": "N 80",
+              "x": 68.43271,
+              "y": 290.062,
+              "z": 16.8120556
+            },
+            {
+              "i": 8,
+              "d": "N 60",
+              "x": 63.40479,
+              "y": 275.899933,
+              "z": 16.8120556
+            }
+          ]
         },
         {
-          "author":"Soeed.4160",
+          "author": "Soeed.4160",
           "enabled": true,
           "name": "Dhuum",
           "description": "Reaper markers - not on reaper",
@@ -284,7 +284,7 @@
           ]
         },
         {
-          "author":"UniqueStyles.7309",
+          "author": "UniqueStyles.7309",
           "enabled": true,
           "name": "Samarog CM",
           "description": "Tank Markers for Samarog CM",
@@ -345,6 +345,70 @@
               "x": -125.3877,
               "y": 77.8812943,
               "z": 129.5121
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Strike Missions",
+      "markerSets": [
+        {
+          "author": "Mike.8061",
+          "enabled": true,
+          "name": "Cerus CM",
+          "description": "Empowered wall strategy\n(Trigger from boss platform)",
+          "mapId": 1520,
+          "trigger": { "x": -2.55700541, "y": -156.3236, "z": 178.668869 },
+          "markers": [
+            {
+              "i": 1,
+              "d": "common stack position throughout the encounter",
+              "x": -5.047377,
+              "y": -106.145889,
+              "z": 178.6714
+            },
+            {
+              "i": 3,
+              "d": "common portal placement spot and stack position",
+              "x": 7.89093447,
+              "y": -100.131096,
+              "z": 178.671387
+            },
+            {
+              "i": 4,
+              "d": "common despair puddle drop/stack spot and visual help for edge portal placements",
+              "x": 28.10699,
+              "y": -94.20187,
+              "z": 178.671616
+            },
+            {
+              "i": 5,
+              "d": "common despair puddle drop/stack portal spot",
+              "x": -9.321397,
+              "y": -129.685074,
+              "z": 178.671616
+            },
+            {
+              "i": 6,
+              "d": "embodiment rage range indicator and common scourge portal spot",
+              "x": -9.461751,
+              "y": -111.8684,
+              "z": 178.671448
+            },
+            {
+              "i": 7,
+              "d": "common despair puddle drop/stack spot and visual help for portal placements",
+              "x": 34.5766754,
+              "y": -103.435806,
+              "z": 178.671616
+            },
+            {
+              "i": 8,
+              "d": "boss rage range indicator and visual help for portal placements",
+              "x": -0.07714593,
+              "y": -69.15737,
+              "z": 178.6714
             }
           ]
         }
