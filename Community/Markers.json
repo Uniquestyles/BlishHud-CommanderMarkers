@@ -357,59 +357,55 @@
           "author": "Mike.8061",
           "enabled": true,
           "name": "Cerus CM",
-          "description": "Empowered wall strategy",
+          "description": "Empowered wall strategy\n(Trigger from boss platform)",
           "mapId": 1520,
-          "trigger": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-          },
+          "trigger": { "x": -2.55700541, "y": -156.3236, "z": 178.668869 },
           "markers": [
             {
               "i": 1,
-              "d": "Arrow - common stack position throughout the encounter",
+              "d": "common stack position throughout the encounter",
               "x": -5.047377,
               "y": -106.145889,
               "z": 178.6714
             },
             {
               "i": 3,
-              "d": "Heart - common portal placement spot and stack position",
+              "d": "common portal placement spot and stack position",
               "x": 7.89093447,
               "y": -100.131096,
               "z": 178.671387
             },
             {
               "i": 4,
-              "d": "Square - common despair puddle drop/stack spot and visual help for edge portal placements",
+              "d": "common despair puddle drop/stack spot and visual help for edge portal placements",
               "x": 28.10699,
               "y": -94.20187,
               "z": 178.671616
             },
             {
               "i": 5,
-              "d": "Star - common despair puddle drop/stack portal spot",
+              "d": "common despair puddle drop/stack portal spot",
               "x": -9.321397,
               "y": -129.685074,
               "z": 178.671616
             },
             {
               "i": 6,
-              "d": "Spiral - embodiment rage range indicator and common scourge portal spot",
+              "d": "embodiment rage range indicator and common scourge portal spot",
               "x": -9.461751,
               "y": -111.8684,
               "z": 178.671448
             },
             {
               "i": 7,
-              "d": "Triangle - common despair puddle drop/stack spot and visual help for portal placements",
+              "d": "common despair puddle drop/stack spot and visual help for portal placements",
               "x": 34.5766754,
               "y": -103.435806,
               "z": 178.671616
             },
             {
               "i": 8,
-              "d": "Cross - boss rage range indicator and visual help for portal placements",
+              "d": "boss rage range indicator and visual help for portal placements",
               "x": -0.07714593,
               "y": -69.15737,
               "z": 178.6714
